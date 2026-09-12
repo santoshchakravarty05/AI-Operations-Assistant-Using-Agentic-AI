@@ -1,0 +1,20 @@
+[
+  {
+    "employee_id": "EMP1024",
+    "name": "Aisha Khan",
+    "email": "aisha.khan@example.com",
+    "department": "Finance"
+  },
+  {
+    "employee_id": "EMP2048",
+    "name": "Daniel Wong",
+    "email": "daniel.wong@example.com",
+    "department": "Operations"
+  },
+  {
+    "employee_id": "EMP3072",
+    "name": "Maya Patel",
+    "email": "maya.patel@example.com",
+    "department": "Human Resources"
+  }
+]

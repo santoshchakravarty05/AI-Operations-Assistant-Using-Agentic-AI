@@ -1,0 +1,20 @@
+[
+  {
+    "article_id": "KB-001",
+    "title": "Reset your VPN password",
+    "keywords": ["vpn", "password", "reset", "sign in"],
+    "content": "Open the company password portal, select 'Reset password', and complete multi-factor authentication. Wait up to five minutes, then sign in to the VPN using your new password. If the reset fails, contact IT Support."
+  },
+  {
+    "article_id": "KB-002",
+    "title": "Troubleshoot a slow laptop",
+    "keywords": ["laptop", "slow", "performance", "restart"],
+    "content": "Save your work and restart the laptop first. Disconnect unused USB devices and close applications you do not need. If the problem continues after a restart, create a support ticket with the affected application and when the slowdown began."
+  },
+  {
+    "article_id": "KB-003",
+    "title": "Connect to the office Wi-Fi",
+    "keywords": ["wifi", "wi-fi", "wireless", "network", "connect"],
+    "content": "Choose the 'Company-WiFi' network, then sign in with your employee email address and current password. Forget any older saved Company-WiFi network before trying again."
+  }
+]
